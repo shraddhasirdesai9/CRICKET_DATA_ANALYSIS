@@ -5,4 +5,4 @@ I have done an exploratary analysis using basic to advanced SQL queries.
 
 The raw dataset was downloaded from https://www.kaggle.com/datasets/shivanshsinghal107/cricbuzz-players-data
 
-I used MS-SQL Workbench and imported the CSV files to a SQL Database in my local machine to carry forward with the analysis.
+I used MySQL Workbench and imported the CSV files to a SQL Database in my local machine to carry forward with the analysis.
